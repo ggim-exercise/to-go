@@ -8,7 +8,7 @@ In this document I propose the Integration of Disaster Risk Reduction and Geospa
 
 The future envisioned by "to-go" is one of potential and transformation, brimming with hope.
 
-We prioritize the safety and sustainable development of local communities. Looking ahead, by seamlessly integrating Geospatial Information and Disaster Risk Ranagement, we are forging a new path that achieves both risk reduction and regional prosperity. This approach extends beyond conventional frameworks, enabling the reduction of risks and the creation of secure environments even in the face of threats like floods, earthquakes, and weather anomalies. Our priority should be on climate-related disasters at least in the first task peroid. 
+We prioritize the safety and sustainable development of local communities. Looking ahead, by seamlessly integrating Geospatial Information and Disaster Risk Reduction, we are forging a new path that achieves both risk reduction and regional prosperity. This approach extends beyond conventional frameworks, enabling the reduction of risks and the creation of secure environments even in the face of threats like floods, earthquakes, and weather anomalies. Our priority should be on climate-related disasters at least in the first task period. 
 
 This future places a spotlight on accommodating individual community needs and challenges with flexibility. We leverage geospatial data to derive practical measures, tailoring optimal solutions to address the unique challenges of each region.
 
